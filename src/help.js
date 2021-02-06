@@ -4,7 +4,10 @@ const help = (prefix) => {
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: OWNER_NAME
+  ❏ Creator: Rans bot
+  ❏ grub official : https://chat.whatsapp.com/BAVcHIMlu13GSavRzNj6Gg
+  ❏ owner : Bayu satryia
+
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
